@@ -32,3 +32,10 @@ h1 {
   letter-spacing: -0.045em;
   white-space: nowrap;
 }
+
+.htmlScreen iframe{
+  width: 1024px;
+  height: 670px;
+  border: none;
+  border-radius: 20px;
+}
